@@ -1,5 +1,4 @@
 # ToDoList React app    
-[![Build Status](https://travis-ci.org/ifedyukin/React-ToDoList.svg?branch=master)](https://travis-ci.org/ifedyukin/React-ToDoList) Model - [todos](http://todomvc.com/examples/vanillajs/)    
 
 ## Package information   
 * "name" - "ToDoList"    
